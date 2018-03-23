@@ -1,3 +1,4 @@
+// messy buggy code, just for sample for now.
 
 p5.prototype.initVideoCapture = function(x,y,w,h){
     capture = createCapture(VIDEO);
